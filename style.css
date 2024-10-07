@@ -34,3 +34,6 @@ h1 + strong {
 span ~ p {
     color: red;
 }
+#important_decoration {
+    text-decoration: underline;
+}
