@@ -1,0 +1,36 @@
+pre {
+    color: red
+}
+.second-element {
+    color: orange;
+}
+#third-element {
+    color: blue;
+}
+span[span_attr] {
+    color: brown;
+}
+div p {
+    color: gray;
+}
+div > b > span {
+    color:purple
+}
+p, h6 {
+    color: deeppink;
+}
+body > .di_v > h4 {
+    color:springgreen;
+}
+h3 {
+    color: aqua !important;
+}
+.di_v > #tenth > i > b {
+    color: chartreuse;
+}
+h1 + strong {
+    color: blue;
+}
+span ~ p {
+    color: red;
+}
