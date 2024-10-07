@@ -37,3 +37,6 @@ span ~ p {
 #important_decoration {
     text-decoration: underline;
 }
+.important_class {
+    text-align: center;
+}
